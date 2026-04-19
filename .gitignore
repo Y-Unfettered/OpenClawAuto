@@ -6,4 +6,8 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.msi
+*.exe
+payload/*.msi
+payload/*.exe
 installer-config.json

@@ -600,7 +600,10 @@ class InstallerApp:
 
         desc = ttk.Label(
             brand_frame,
-            text=f"全网同名作者：{APP_AUTHOR}  |  面向小白的一键安装、聊天接入和网关控制工具。Node/Python/Git 安装包放到同目录 payload 文件夹即可自动识别。",
+            text=(
+                f"全网同名作者：{APP_AUTHOR} | 有问题欢迎在抖音、微信公众号交流 | 这个工具主要送给朋友使用，也欢迎你拿去体验。\n"
+                "面向小白的一键安装、聊天接入和网关控制工具。Node / Python / Git 安装包放到同目录 payload 文件夹即可自动识别。"
+            ),
             style="HeroSub.TLabel",
             wraplength=760,
         )
