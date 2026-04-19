@@ -1,0 +1,13 @@
+{
+  "node_installer": "",
+  "python_installer": "",
+  "git_installer": "",
+  "base_url": "https://llm.example.com/v1",
+  "model_id": "gpt-4.1",
+  "api_key": "",
+  "compatibility": "openai",
+  "install_python": true,
+  "install_git_if_missing": false,
+  "install_daemon": true,
+  "skip_skills": true
+}

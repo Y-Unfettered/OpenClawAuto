@@ -1,0 +1,9 @@
+.dist-build/
+.pyinstaller-build/
+dist/
+release/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+installer-config.json
