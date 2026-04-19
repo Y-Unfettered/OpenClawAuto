@@ -19,6 +19,7 @@
 
 - 主程序：`OpenClawSetupTool.exe`
 - 技术栈：`Python + Tkinter + PyInstaller`
+- 
 - 分发方式：单文件 exe + `payload` 安装包目录 + 预设配置模板
 
 最终能力包括：
