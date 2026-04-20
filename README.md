@@ -1,5 +1,10 @@
 # OpenClawAuto
 
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4)](./README.md)
+[![Python](https://img.shields.io/badge/Python-3.13%2B-3776AB)](./README.md)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![Status](https://img.shields.io/badge/Status-V1.0-111111)](./README.md)
+
 `OpenClawAuto` 是一个面向普通 Windows 用户的 `OpenClaw` 中文一键安装工具。
 
 它的目标是把原本偏开发者的环境检查、依赖安装、模型预配置、网关启动和聊天接入流程，封装成一个完全不懂代码的朋友也能直接双击使用的中文 GUI 工具。
